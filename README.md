@@ -33,7 +33,7 @@ This is my **first Excel-based sales dashboard project**, providing a comprehens
 
 
 ## 📂 Dataset
-The dataset lives in **`Dashboard.xlsx`** and includes the following columns:
+The Dataset lives in **<a href="https://github.com/mdprince007/Virinda_Store_Data_Analysis_2022/blob/main/Raw%20data.zip">RAW DATA</a>** and includes the following columns:
 
 - **index** — Row index for reference  
 - **Order ID** — Unique identifier for each order  
