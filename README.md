@@ -6,12 +6,9 @@ This is my **first Excel-based sales dashboard project**, providing a comprehens
 
 
 ## 📸 Dashboard Preview
-> _Optional:_ Add a screenshot for quick context.
-```
-Place an image at: assets/dashboard.png
-Then reference it here:
-![Dashboard Preview](assets/dashboard.png)
-```
+
+<img width="1162" height="504" alt="Dashboard" src="https://github.com/user-attachments/assets/60b843b6-0a31-4646-a25e-afe550577b53" />
+
 
 
 
