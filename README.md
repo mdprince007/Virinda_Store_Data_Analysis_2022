@@ -75,7 +75,7 @@ The Dataset lives in **<a href="https://github.com/mdprince007/Virinda_Store_Dat
 - Which **channel** contributes the most to sales?  
 - **Highest selling category**.  
 - **Percentage of total orders delivered**.  
-- **Interactive View**: Explore all insights via the dashboard.
+- Dashboard Interaction <a href="https://github.com/mdprince007/Virinda_Store_Data_Analysis_2022/blob/main/Dashboard.png">**View Dashboard**</a>
 
 ---
 
