@@ -94,7 +94,7 @@ To improve sales, focus marketing on **women aged 30–49** in **Maharashtra, Ka
 
 
 ## 🚀 Usage
-1. Download **`Dashboard.xlsx`** from this repository.  
+1. Download **<a href="https://github.com/mdprince007/Virinda_Store_Data_Analysis_2022/blob/main/Raw%20data.zip">RAW DATA</a>** from this repository.  
 2. Open in **Microsoft Excel** (or compatible spreadsheet software).  
 3. Explore the sheets for **cleaned data**, **pivot tables**, **charts**, and the **interactive dashboard**.
 
