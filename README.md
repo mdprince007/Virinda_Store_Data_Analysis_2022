@@ -108,5 +108,4 @@ To improve sales, focus marketing on **women aged 30–49** in **Maharashtra, Ka
 
 
 
-## 📜 License
-Licensed under the **MIT License** — feel free to use, share, and adapt.
+
